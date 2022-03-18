@@ -6,6 +6,7 @@ Project Instagram menggunakan repositori [Instaloader](https://github.com/instal
 **USAGE**
 * Install [python](https://www.python.org/downloads/)
 * Install Requirements.txt `pip install -r requirements.txt`
+* Pindahkan file mode1 ke folder nltk_data/corpora/stopwords
 * python main.py
 * Happy Scrapping
 
