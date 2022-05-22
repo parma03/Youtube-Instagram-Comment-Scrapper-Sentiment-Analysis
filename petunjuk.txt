@@ -1,2 +1,5 @@
 install semua package yang dibutuhkan (pip install -r requirements.txt)
 pindahkan file mode1 ke folder nltk_data/corpora/stopwords
+
+Cara Mendapatkan google apikey
+https://rpubs.com/nabiilahardini/ytapi
