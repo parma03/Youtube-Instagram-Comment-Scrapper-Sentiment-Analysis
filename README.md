@@ -16,3 +16,9 @@ Project Instagram menggunakan repositori [Instaloader](https://github.com/instal
 - [x] Instagram Comment Username
 - [x] Instagram Comment Username with List Multiple Target
 - [x] Save Output ke CSV  
+
+
+**License**
+This Script created by Me. I created this just for fun only.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parma03&theme=vue-dark&show_icons=true)
